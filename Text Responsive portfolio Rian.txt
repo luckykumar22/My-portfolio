@@ -1,15 +1,15 @@
 ========== HEADER ==========
 .nav__logo-circle
-R
+L
 
 .nav__logo-name
-Rian Lot.
+Lucky.
 
 .nav__title
 Menu
 
 .nav__name
-Rian
+Lucky
 
 .nav__link
 Home - About Me - Projects - Contact Me
@@ -17,12 +17,12 @@ Home - About Me - Projects - Contact Me
 
 ========== HOME ==========
 .home__name
-Rian Lot
+Lucky.
 
 .home__social-link
-https://www.instagram.com/
-https://www.linkedin.com/
-https://github.com/
+https://www.instagram.com/luck22y
+https://www.linkedin.com/in/luck22y/
+https://github.com/luckykumar22/
 
 .home__description
 <b>Frontend Developer</b>, with knowledge in web 
