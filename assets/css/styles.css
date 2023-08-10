@@ -844,6 +844,13 @@ button__ghost {
 .contact__social-link:hover {
   background-color: var(--first-color);
 }
+.contact__message {
+  color: var(--white-color);
+  font-size: var(--small-font-size);
+  position: absolute;
+  bottom: -1.6rem;
+  left: 0;
+}
 /*=============== FOOTER ===============*/
 .footer {
   background-color: var(--black-color);
@@ -1266,11 +1273,11 @@ button__ghost {
     width: max-content;
   }
   .contact__data {
-    width: 39px;
+    width: 392px;
     height: 375px;
     padding: 4.5rem 3.5rem 3.5rem;
     margin: 7.5rem 0 0 8rem;
-    border-bottom: 6ps solid var(--first-color);
+    border-bottom: 6px solid var(--first-color);
   }
   .contact__data .section__title-2 {
     margin: 0 0 2rem;
