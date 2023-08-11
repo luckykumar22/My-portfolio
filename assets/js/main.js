@@ -158,3 +158,4 @@ sr.reveal(
   { origin: "left" }
 );
 sr.reveal(`.services__card, .projects__card`, { interval: 100 });
+

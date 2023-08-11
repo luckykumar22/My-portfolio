@@ -378,7 +378,7 @@ body.dark-theme {
 }
 .home__profile {
   position: relative;
-  justify-content: center;
+  justify-self: center;
 }
 .home__image {
   width: 220px;
@@ -388,12 +388,10 @@ body.dark-theme {
   z-index: 10;
 }
 .home__shadow {
-  /* width: 50%; */
   width: 100%;
   height: 100%;
   background-color: var(--container-color);
   bottom: -0.75rem;
-  /* right: 13.75rem; */
   right: -0.75rem;
   position: absolute;
   z-index: 5;
@@ -413,7 +411,7 @@ body.dark-theme {
 }
 .home__line {
   right: -2rem;
-  bottom: -5rem;
+  bottom: -.5rem;
 }
 .home__profile .geometric-box {
   top: 2.5rem;
@@ -474,7 +472,7 @@ body.dark-theme {
   height: 36px;
   display: grid;
   place-items: center;
-  font-size: 1.3rem;
+  font-size: 1rem;
   cursor: pointer;
   overflow: hidden;
   transition: background-color 0.4s;
